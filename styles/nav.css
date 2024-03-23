@@ -1,0 +1,31 @@
+header {
+    background-color: rgb(45, 41, 41);
+    padding: 4px;
+    color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.header-title {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: -29px;
+}
+header > nav {
+    display: flex;
+    width: 100%;
+}
+header > nav > ul {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+header > nav > ul > li {
+    list-style: none;
+}
+header > nav > ul > li > a {
+    color: white;
+    text-decoration: none;
+    margin: 7px;
+}
