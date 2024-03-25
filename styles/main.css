@@ -8,6 +8,7 @@ body {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-style: normal;
+    background-color: #f0e8e8;
 }
 .container {
     width: 90%;
@@ -87,7 +88,8 @@ footer > div > h5 {
     font-size: 27px;
 }
 .card {
-    border: 1px solid grey;
+    border: 1px solid rgb(190, 188, 188);
+    background-color: white;
     padding: 10px;
     border-radius: 11px;
     margin: 7px;
